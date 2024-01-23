@@ -3,9 +3,9 @@
 Thank you for exploring the Medium Clone App Demo! This Flutter project showcases a simplified version of a Medium-inspired UI template developed with Flutter.
 
 ## Screenshots
-![preview](https://github.com/muhammad-fiaz/MediumClone-Flutter/assets/your-screenshot-link.jpg)
+![preview](https://github.com/muhammad-fiaz/MediumApp-Flutter/assets/75434191/f65a9630-9b94-4ddd-b224-1363c58b8ffa)
 
-**Note: This Flutter Template Contains Placeholder Content for Demo Purposes**
+**Note: This Flutter Template Contains Placeholder Content for Demo Purposes. This project is still in active development. If you want to add or improve features, make sure to fork and contribute to this repo. Don't forget to star 🌟 the repo if you like it!**
 
 ## Project Overview
 
