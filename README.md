@@ -1,5 +1,22 @@
+<div style="text-align: center;">
+
 # Medium Clone App using Flutter
 
+[![License](https://img.shields.io/github/license/muhammad-fiaz/MediumApp-Flutter)](https://github.com/muhammad-fiaz/MediumApp-Flutter/blob/main/LICENSE)
+[![Stars](https://img.shields.io/github/stars/muhammad-fiaz/MediumApp-Flutter)](https://github.com/muhammad-fiaz/MediumApp-Flutter/stargazers)
+[![Forks](https://img.shields.io/github/forks/muhammad-fiaz/MediumApp-Flutter)](https://github.com/muhammad-fiaz/MediumApp-Flutter/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/muhammad-fiaz/MediumApp-Flutter)](https://github.com/muhammad-fiaz/MediumApp-Flutter/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/muhammad-fiaz/MediumApp-Flutter)](https://github.com/muhammad-fiaz/MediumApp-Flutter/pulls)
+[![GitHub contributors](https://img.shields.io/github/contributors/muhammad-fiaz/MediumApp-Flutter)](https://github.com/muhammad-fiaz/MediumApp-Flutter/graphs/contributors)
+[![GitHub watchers](https://img.shields.io/github/watchers/muhammad-fiaz/MediumApp-Flutter)](https://github.com/muhammad-fiaz/MediumApp-Flutter/watchers)
+[![GitHub last commit](https://img.shields.io/github/last-commit/muhammad-fiaz/MediumApp-Flutter)](https://github.com/muhammad-fiaz/MediumApp-Flutter/commits/main)
+<a href="https://discord.gg/uRkZ5cHf" target="_blank">
+  <img
+    src="https://dcbadge.limes.pink/api/server/https://discord.gg/uRkZ5cHf?style=shield"
+    alt="discord invite"
+  />
+</a>
+</div>
 Thank you for exploring the Medium Clone App Demo! This Flutter project showcases a simplified version of a Medium-inspired UI template developed with Flutter.
 
 ## Screenshots
